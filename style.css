@@ -1,0 +1,49 @@
+/* body */
+body {
+  font-family: "Roboto", sans-serif;
+  color: #707071;
+}
+
+/* navbar */
+.navbar .container a {
+  font-weight: bold;
+}
+.navbar .container a:hover {
+  font-weight: bold;
+  color: #d27000;
+}
+
+/* carousel */
+#carousel {
+  height: 100vh;
+}
+
+/* Layanan Kami */
+#melayani .container {
+  height: 100;
+}
+
+#melayani .container h5 {
+  margin: 25px;
+}
+
+#melayani .container .row {
+  margin: 2 4;
+}
+
+#melayani .col .card-body {
+  transition: 0.5s;
+}
+
+#melayani .col .card-body:hover {
+  box-shadow: 0 0 20px 0px rgba(0, 0, 0, 0.2);
+  transition: 0.5s;
+}
+#location {
+  width: 100%;
+  margin: auto;
+  padding: 12%;
+}
+#location iframe {
+  width: 100%;
+}
