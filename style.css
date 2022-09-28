@@ -21,7 +21,7 @@ body {
 } */
 
 #carousel img {
-  margin-top: 4%;
+  margin-top: 5%;
 }
 
 /* Layanan Kami */
@@ -77,6 +77,10 @@ body {
 
 #footer .row .col {
   margin-top: 1%;
+}
+
+#footer .row .col i {
+  color: #ffffff;
 }
 
 #footer .row .col a {
