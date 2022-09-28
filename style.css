@@ -21,7 +21,7 @@ body {
 } */
 
 #carousel img {
-  margin-top: 5%;
+  margin-top: 4%;
 }
 
 /* Layanan Kami */
@@ -38,7 +38,7 @@ body {
 }
 
 #melayani .container .row {
-  margin: 2 4;
+  margin: auto;
 }
 
 #melayani .col .card-body {
@@ -54,8 +54,33 @@ body {
 #location {
   width: 100%;
   margin: auto;
-  padding: 12%;
+  padding: 18%;
 }
 #location iframe {
   width: 100%;
+}
+
+/* footer */
+#footer {
+  width: 100%;
+  height: 12vh;
+
+  color: #ffffff;
+}
+
+#footer .row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#footer .row .col {
+  margin-top: 1%;
+}
+
+#footer .row .col a {
+  font-size: 85%;
+  text-decoration: none;
+  color: #ffffff;
 }
